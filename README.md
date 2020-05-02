@@ -6,7 +6,7 @@ The app contains no analytics, no third party libraries, or advertisers.
 so feel safe your data doesn't leave your phone.
 This app doesn't even access the internet!!!
 All the data you enter reside locally.
-This may subjected to change**.
+This policy may subjected to change**.
 
 # Feedback
 You can give feedback through this email: 
