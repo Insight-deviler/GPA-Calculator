@@ -12,3 +12,8 @@ This policy may subjected to change**.
 You can give feedback through this email: 
 insightagri10@gmail.com
 Your mail id will not be shared or used in any way.
+
+# Credit
+Icons provided by: icons8 (https://www.icons8.com)
+App designed and owned by: Sarath S
+Find me on Instagram: https://instagram.com/saraths10?igshid=5sup8g1u6wg3
