@@ -17,6 +17,6 @@ Your mail id will not be shared or used in any way.
 
 Icons provided by: icons8 (https://www.icons8.com)
 
-App designed and owned by: S. Sarath
+App designed and owned by: Sarath S
 
 Find me on Instagram: https://instagram.com/saraths10?igshid=5sup8g1u6wg3
