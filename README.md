@@ -4,15 +4,9 @@ Finding tough time in calculating your GPA this app comes to your help! Enter yo
 # Privacy-Policy
 By installing this app you abide by the license and privacy policy.
 
-This app contains no analytics or advertisers.
-
-This app have Firebase integration for Real Time Database.
-
-I collect certain details about your smartphone such as device name, model, Android version, display size, etc., to make my app user-friendly and make changes. These data are anonymously collected.
+This app contains no analytics.
 
 I don't have any intention of selling this data to any third-party companies.
-
-These data will be deleted frequently  (2 days once) to free up the server.
 
 I'm not responsible for any damage caused by the use of this app. Correct usage depends on the user.
 
