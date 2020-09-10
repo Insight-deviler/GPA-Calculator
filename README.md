@@ -13,6 +13,9 @@ I'm not responsible for any damage caused by the use of this app. Correct usage 
 This policy may subjected to change**.
 
 # Feedback
+
+Non identifiable data is only collected when the user reports error or crashes that occur in the app
+
 You can give feedback or request me to delete these data through this email: 
 
 insightagri10@gmail.com
