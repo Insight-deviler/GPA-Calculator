@@ -17,9 +17,7 @@ I'm not responsible for any damage caused by the use of this app. Correct usage 
 
 Non identifiable data is only collected when the user reports error or crashes that occur in the app
 
-You can give feedback or request me to delete these data through this email: 
-
-(email)=(insightagri10@gmail.com)
+You can give feedback or request me to delete these data through insightagri10@gmail.com
 
 Your mail id will not be shared or used in any way.
 
